@@ -1,0 +1,16 @@
+{
+  "name": "seasson-4",
+  "version": "1.0.0",
+  "description": "Test Package for udemy course season 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Cortés",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {}
+}
